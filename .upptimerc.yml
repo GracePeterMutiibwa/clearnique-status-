@@ -12,8 +12,10 @@ status-website:
   name: Clearnique Status
   introTitle: Clearnique Service Status
   introMessage: Real-time status for all Clearnique services.
+  logoUrl: https://clearnique.com/served/nh/ingray.svg
+  favIconUrl: https://clearnique.com/served/images/clns.svg
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/GracePeterMutiibwa/clearnique-status-
+    - title: Clearnique
+      href: https://clearnique.com
