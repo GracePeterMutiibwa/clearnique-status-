@@ -9,7 +9,7 @@ sites:
     url: https://ingest.clearnique.com
 status-website:
   cname: status.clearnique.com
-  name: Clearnique Status
+  name: Is Clearnique Live?
   introTitle: Clearnique Service Status
   introMessage: Real-time status for all Clearnique services.
   logoUrl: https://clearnique.com/served/nh/ingray.svg
@@ -17,5 +17,5 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Clearnique
+    - title: Get Started
       href: https://clearnique.com
